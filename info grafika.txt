@@ -1,5 +1,14 @@
 link referensi, model-model tugas akhir grafika
 silakan di lihat-lihat
 
-if82009grafkom.wordpress.com
-if102008.wordpress.com
+- if82009grafkom.wordpress.com
+
+- if102008.wordpress.com
+
+- http://www.luhung.web.id/2013/08/tugas-opengl-pembuatan-interior-kamar.html
+
+- http://if17k2009.wordpress.com/
+
+- http://sigmaakhiria.weebly.com/1/post/2013/04/grafika-komputer-membuat-danbo-3d-dengan-opengl.html
+
+- http://if102009.wordpress.com/
